@@ -1,0 +1,101 @@
+customer_id,customer_name,product,order_date,sales_amount,region,payment_method
+1,John Doe,Laptop,2025-01-05,1200,Lagos,Card
+2,Jane Smith,Mouse,2025-01-07,25,Abuja,Transfer
+3,Michael Johnson,Keyboard,2025-01-10,75,Port Harcourt,Cash
+4,Sarah Williams,Monitor,2025-01-12,300,Ibadan,USSD
+5,David Brown,Laptop,2025-01-15,1200,Kano,Card
+6,Emily Davis,Headset,2025-01-18,150,Lagos,Transfer
+7,Daniel Wilson,Keyboard,2025-01-20,75,Abuja,Cash
+8,Olivia Taylor,Monitor,2025-01-22,300,Port Harcourt,USSD
+9,James Anderson,Mouse,2025-01-25,25,Ibadan,Card
+10,Sophia Thomas,Laptop,2025-01-28,1200,Kano,Transfer
+1,John Doe,Monitor,2025-02-01,300,Lagos,Cash
+2,Jane Smith,Laptop,2025-02-03,1200,Abuja,USSD
+3,Michael Johnson,Mouse,2025-02-05,25,Port Harcourt,Card
+4,Sarah Williams,Keyboard,2025-02-08,75,Ibadan,Transfer
+5,David Brown,Headset,2025-02-10,150,Kano,Cash
+6,Emily Davis,Laptop,2025-02-12,1200,Lagos,USSD
+7,Daniel Wilson,Monitor,2025-02-15,300,Abuja,Card
+8,Olivia Taylor,Mouse,2025-02-18,25,Port Harcourt,Transfer
+9,James Anderson,Keyboard,2025-02-20,75,Ibadan,Cash
+10,Sophia Thomas,Headset,2025-02-22,150,Kano,USSD
+1,John Doe,Laptop,2025-03-01,1200,Lagos,Card
+2,Jane Smith,Monitor,2025-03-03,300,Abuja,Transfer
+3,Michael Johnson,Headset,2025-03-05,150,Port Harcourt,USSD
+4,Sarah Williams,Laptop,2025-03-08,1200,Ibadan,Cash
+5,David Brown,Mouse,2025-03-10,25,Kano,Card
+6,Emily Davis,Keyboard,2025-03-12,75,Lagos,Transfer
+7,Daniel Wilson,Laptop,2025-03-15,1200,Abuja,USSD
+8,Olivia Taylor,Headset,2025-03-18,150,Port Harcourt,Card
+9,James Anderson,Monitor,2025-03-20,300,Ibadan,Transfer
+10,Sophia Thomas,Keyboard,2025-03-22,75,Kano,Cash
+1,John Doe,Headset,2025-04-01,150,Lagos,USSD
+2,Jane Smith,Keyboard,2025-04-03,75,Abuja,Card
+3,Michael Johnson,Laptop,2025-04-05,1200,Port Harcourt,Transfer
+4,Sarah Williams,Mouse,2025-04-08,25,Ibadan,USSD
+5,David Brown,Monitor,2025-04-10,300,Kano,Cash
+6,Emily Davis,Headset,2025-04-12,150,Lagos,Card
+7,Daniel Wilson,Keyboard,2025-04-15,75,Abuja,Transfer
+8,Olivia Taylor,Laptop,2025-04-18,1200,Port Harcourt,USSD
+9,James Anderson,Mouse,2025-04-20,25,Ibadan,Card
+10,Sophia Thomas,Monitor,2025-04-22,300,Kano,Transfer
+11,Christopher Lee,Laptop,2025-01-02,1200,Lagos,Card
+12,Amanda Brown,Mouse,2025-01-08,25,Abuja,Transfer
+13,Robert Taylor,Keyboard,2025-01-14,75,Port Harcourt,Cash
+14,Linda Garcia,Monitor,2025-01-19,300,Ibadan,USSD
+15,Thomas White,Headset,2025-01-24,150,Kano,Card
+11,Christopher Lee,Monitor,2025-02-02,300,Lagos,Transfer
+12,Amanda Brown,Laptop,2025-02-06,1200,Abuja,USSD
+13,Robert Taylor,Mouse,2025-02-09,25,Port Harcourt,Card
+14,Linda Garcia,Keyboard,2025-02-13,75,Ibadan,Transfer
+15,Thomas White,Laptop,2025-02-17,1200,Kano,Cash
+11,Christopher Lee,Keyboard,2025-03-02,75,Lagos,USSD
+12,Amanda Brown,Monitor,2025-03-06,300,Abuja,Card
+13,Robert Taylor,Headset,2025-03-09,150,Port Harcourt,Transfer
+14,Linda Garcia,Laptop,2025-03-13,1200,Ibadan,USSD
+15,Thomas White,Mouse,2025-03-17,25,Kano,Card
+11,Christopher Lee,Laptop,2025-04-02,1200,Lagos,Transfer
+12,Amanda Brown,Keyboard,2025-04-06,75,Abuja,Cash
+13,Robert Taylor,Monitor,2025-04-09,300,Port Harcourt,USSD
+14,Linda Garcia,Mouse,2025-04-13,25,Ibadan,Card
+15,Thomas White,Headset,2025-04-16,150,Kano,Transfer
+16,Jessica Martinez,Headset,2025-01-03,150,Lagos,Cash
+17,Richard Anderson,Laptop,2025-01-09,1200,Abuja,USSD
+18,Patricia Jones,Monitor,2025-01-16,300,Port Harcourt,Card
+19,Joseph Robinson,Mouse,2025-01-21,25,Ibadan,Transfer
+20,Barbara Davis,Keyboard,2025-01-26,75,Kano,Cash
+16,Jessica Martinez,Mouse,2025-02-04,25,Lagos,USSD
+17,Richard Anderson,Keyboard,2025-02-07,75,Abuja,Card
+18,Patricia Jones,Laptop,2025-02-11,1200,Port Harcourt,Transfer
+19,Joseph Robinson,Headset,2025-02-14,150,Ibadan,USSD
+20,Barbara Davis,Monitor,2025-02-19,300,Kano,Card
+16,Jessica Martinez,Laptop,2025-03-04,1200,Lagos,Transfer
+17,Richard Anderson,Mouse,2025-03-07,25,Abuja,Cash
+18,Patricia Jones,Keyboard,2025-03-11,75,Port Harcourt,USSD
+19,Joseph Robinson,Monitor,2025-03-14,300,Ibadan,Card
+20,Barbara Davis,Headset,2025-03-19,150,Kano,Transfer
+16,Jessica Martinez,Monitor,2025-04-04,300,Lagos,USSD
+17,Richard Anderson,Headset,2025-04-07,150,Abuja,Card
+18,Patricia Jones,Mouse,2025-04-10,25,Port Harcourt,Transfer
+19,Joseph Robinson,Keyboard,2025-04-14,75,Ibadan,Cash
+20,Barbara Davis,Laptop,2025-04-17,1200,Kano,USSD
+21,Mark Wilson,Keyboard,2025-01-06,75,Lagos,Card
+22,Elizabeth Taylor,Monitor,2025-01-11,300,Abuja,Transfer
+23,Donald Thomas,Laptop,2025-01-17,1200,Port Harcourt,Cash
+24,Susan Jackson,Mouse,2025-01-23,25,Ibadan,USSD
+25,Steven Martin,Headset,2025-01-29,150,Kano,Card
+21,Mark Wilson,Laptop,2025-02-08,1200,Lagos,Transfer
+22,Elizabeth Taylor,Mouse,2025-02-10,25,Abuja,USSD
+23,Donald Thomas,Keyboard,2025-02-16,75,Port Harcourt,Card
+24,Susan Jackson,Monitor,2025-02-21,300,Ibadan,Transfer
+25,Steven Martin,Laptop,2025-02-25,1200,Kano,Cash
+21,Mark Wilson,Monitor,2025-03-03,300,Lagos,USSD
+22,Elizabeth Taylor,Headset,2025-03-08,150,Abuja,Card
+23,Donald Thomas,Mouse,2025-03-12,25,Port Harcourt,Transfer
+24,Susan Jackson,Keyboard,2025-03-16,75,Ibadan,USSD
+25,Steven Martin,Monitor,2025-03-21,300,Kano,Card
+21,Mark Wilson,Mouse,2025-04-01,25,Lagos,Transfer
+22,Elizabeth Taylor,Laptop,2025-04-05,1200,Abuja,Cash
+23,Donald Thomas,Headset,2025-04-08,150,Port Harcourt,USSD
+24,Susan Jackson,Laptop,2025-04-12,1200,Ibadan,Card
+25,Steven Martin,Keyboard,2025-04-19,75,Kano,Transfer

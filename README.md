@@ -1,28 +1,39 @@
-# Customer Sales Analysis SQL
-
-A comprehensive SQL-based analysis of customer sales data, providing insights into sales trends, customer behavior, and business performance metrics.
+# Customer Sales Analysis Using SQL
 
 ## Project Overview
 
-This project contains SQL queries and analysis for understanding customer sales patterns, revenue trends, and key business metrics.
+This project analyzes customer purchasing behavior and sales performance using SQL.
 
-## Files
+The objective is to identify:
 
-- **sales_analysis.sql** - Main SQL queries for analyzing sales data
-- **dataset.csv** - Raw customer sales dataset
-- **insights.md** - Key findings and insights from the analysis
+* High-value customers
+* Revenue trends
+* Best-performing products
+* Customer purchasing patterns
 
-## Setup Instructions
+## Tools Used
 
-1. Create a database and import the dataset
-2. Run the queries in `sales_analysis.sql` to generate analysis results
-3. Review findings in `insights.md`
+* SQL
+* Excel
 
-## Requirements
+## Business Questions
 
-- SQL database (PostgreSQL, MySQL, SQL Server, etc.)
-- CSV import capability
+1. Who are the top customers by revenue?
+2. Which products generate the highest sales?
+3. What are the monthly revenue trends?
+4. Which customers purchase most frequently?
 
-## Usage
+## Key Findings
 
-Execute the SQL queries in your preferred SQL IDE or command-line tool to analyze the data.
+* Identified top revenue-generating customers.
+* Highlighted best-selling products.
+* Revealed purchasing patterns that can support customer retention strategies.
+
+## Skills Demonstrated
+
+* Data Cleaning
+* SQL Queries
+* Aggregation
+* Grouping
+* Business Analysis
+* Reporting
